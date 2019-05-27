@@ -1,0 +1,24 @@
+body{
+    background-color: blueviolet;
+}
+h1{
+    color: aliceblue;
+}
+p{
+    color: chartreuse;
+    font-size: 70px;
+    font-family:    Verdana;
+    border: 12px solid red;
+    padding: 50px 90px 100px 100px;
+    margin: 50px;
+}
+
+#p1{
+   background-color: black;
+   color: aliceblue; 
+}
+
+.c1{
+    background-color: chocolate;
+    color: cornsilk;
+}
